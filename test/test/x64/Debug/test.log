@@ -1,0 +1,40 @@
+﻿  main.c
+C:\Users\Phat\Desktop\New folder\test\test\main.c(23,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(23,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(23,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(38,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(38,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(38,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(47,26): warning C4477: 'sscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  C:\Users\Phat\Desktop\New folder\test\test\main.c(47,26):
+  this argument is used as a buffer size
+  
+C:\Users\Phat\Desktop\New folder\test\test\main.c(62,16): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(62,16): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(68,16): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(68,16): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(75,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(75,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(75,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27): warning C4477: 'fscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+  C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27):
+  this argument is used as a buffer size
+  
+C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27): warning C4477: 'fscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+  C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27):
+  this argument is used as a buffer size
+  
+C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27): warning C4477: 'fscanf_s' : format string '%[^,]' requires an argument of type 'unsigned int', but variadic argument 6 has type 'size_t'
+  C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27):
+  this argument is used as a buffer size
+  
+C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27): warning C4477: 'fscanf_s' : format string '%[^\n]' requires an argument of type 'unsigned int', but variadic argument 8 has type 'size_t'
+  C:\Users\Phat\Desktop\New folder\test\test\main.c(82,27):
+  this argument is used as a buffer size
+  
+C:\Users\Phat\Desktop\New folder\test\test\main.c(109,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(109,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(109,16): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(169,12): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Phat\Desktop\New folder\test\test\main.c(169,12): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  test.vcxproj -> C:\Users\Phat\Desktop\New folder\test\x64\Debug\test.exe
